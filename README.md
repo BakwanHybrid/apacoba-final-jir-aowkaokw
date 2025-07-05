@@ -5,7 +5,9 @@ Sebuah bot Discord sederhana (?) yang merupakan final project sy untuk KLpypro
 - Hanya sebuah bot Discord yang sangat sederhana, baru dibuat, dengan beberapa (banyak sih) fitur yang akan akan ditambahkan.
 
 ## Fungsi & fitur
-- Saat ini HANYA SEDIKIT COMMAND YANG BISA DIPAKAI. Dengan tambahan fitur "Green Mission" - sebuah menu edukasi (?) tentang perubahan iklim yang memang ada disitu dan bagian dari fokus utama tugas akhir
+- Setelah ditambahkan ke suatu server, penggunaan bot ini hanya dalam bahasa Inggris, tetapi akan diubah agar bisa bilingual
+- Saat ini HANYA SEDIKIT COMMAND YANG BISA DIPAKAI
+- Dengan tambahan fitur "Green Mission" - sebuah menu edukasi (?) tentang perubahan iklim yang memang ada disitu dan bagian dari fokus utama tugas akhir
 
 ## Cara kerja
 - Sama seperti bot DC pada umumnya, dengan command prefix (prefix $, cth. $help). Untuk dokumentasi command terdapat dalam botnya itu sendiri dengan command $cmds
